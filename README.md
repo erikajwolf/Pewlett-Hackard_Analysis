@@ -5,7 +5,7 @@ After running their employee data via VBA and Excel, PH has asked Bobby to work 
 ## Results
 ### Bobby's Findings
 Bobby was tasked with two deliverables: counting the number of employees retiring per title and identifying employees that will be eligible to participate in a mentorship program.
-- ** Wow! PH had some good thinking to assign this task to Bobby. According to his SQL queries, there are 72,458 employees that qualify for retirement. Please see the number of employees retiring per title outlined below:**
+- **Wow! PH had some good thinking to assign this task to Bobby. According to his SQL queries, there are 72,458 employees that qualify for retirement. Please see the number of employees retiring per title outlined below:**
 
 - ** There are 7 titles that are eligible for retirement: Senior Engineer, Senior Staff, Engineer, Staff, Technique Leader, Assistant Engineer, Manager. **
 
