@@ -8,11 +8,11 @@ Bobby was tasked with two deliverables: counting the number of employees retirin
 - **Wow! PH had some good thinking to assign this task to Bobby. According to his SQL queries, there are 72,458 employees that qualify for retirement. Please see the number of employees retiring per title outlined below:**
 ![count_retire_elig](Pewlett-Hackard-Analysis-Folder/Screenshots/count_retire_elig.png)
 - **There are 7 titles that are eligible for retirement: Senior Engineer, Senior Staff, Engineer, Staff, Technique Leader, Assistant Engineer, Manager.**
-![retiring_titles](retiring_titles.png)
+![retiring_titles](Pewlett-Hackard-Analysis-Folder/Screenshots/retiring_titles.png)
 - **The senior roles have the most retiring employees: Senior Engineer (count: 25916) and Senor Staff (count: 24926)**
-![top_retiring](top_retiring.png)
+![top_retiring](Pewlett-Hackard-Analysis-Folder/Screenshots/top_retiring.png)
 - **There are 1549 employees that are eligibile for mentorship. Not nearly as many as the retiring group, but at least PH has a group they can promote and use to fill the impending vacancies and use their resources to hire new staff to fill lower leverl roles that will be left empty.**
-![mentorship_eligibility](mentorship_eligibility.png)
+![mentorship_eligibility](Pewlett-Hackard-Analysis-Folder/Screenshots/mentorship_eligibility.png)
 ## Summary
 ### Next Steps for PH
 There are over 70,000 roles that will need to be filled at PH once Baby Boomers start moving onto retirement (yes, that includes the employees that are eligible for mentorship!). There are plenty of retirement ready employees available to mentor the 1500 employees that are eligible for mentorship. Those eligible for mentorship that already senior-level staff will either be receiving mentorship from other senior-level staff or will have to turn to individuals that are not necessarily retirement-ready.
