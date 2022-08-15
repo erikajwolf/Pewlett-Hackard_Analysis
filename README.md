@@ -1,11 +1,7 @@
 # Pewlett-Hackard_Analysis
 ## Overview
-baby boomers are retirng at a rapid rate
-offering retirement packages for those meeting certain criteria
-retirments will leave thousands of job openings
-what would happen to a conpany if they didn't look ahead and prepare for these vacancies
-needs to find answers to who will be retrng ad how many vacancies iwill compan need to fill
-
+### Databasing at Pewlett Hackard
+After running their employee data via VBA and Excel, PH has asked Bobby to work with SQL to bring databasing to the company. There is a concern wit the impending silver tsunami--the mass retirement of the Baby Boomers. Bobby has been put in charge of discovering who are the qualified employees--to offer retirement packages--as well as be prepared to fill all the job vacancies that will be left behind. 
 explain purpose
 ## Results
 bulletted list with four major points from deliverables. use images
